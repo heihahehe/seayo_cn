@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>产品 on 西鱿官方网站</title>
+    <link>https://www.seayo.com/products/</link>
+    <description>Recent content in 产品 on 西鱿官方网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>Copyright (c) 2025 Seayo</copyright>
+    <lastBuildDate>Wed, 07 Aug 2024 16:27:22 +0200</lastBuildDate>
+    <atom:link href="https://www.seayo.com/products/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>西鱿梦系列木虾</title>
+      <link>https://www.seayo.com/products/dream/</link>
+      <pubDate>Wed, 07 Sep 2022 16:27:22 +0200</pubDate>
+      <guid>https://www.seayo.com/products/dream/</guid>
+      <description>日本伞钩 22g 夜光+UV 带尾鳍稳定器</description>
+    </item>
+    <item>
+      <title>西鱿龍系列木虾</title>
+      <link>https://www.seayo.com/products/dragon08/</link>
+      <pubDate>Wed, 07 Aug 2024 16:27:22 +0200</pubDate>
+      <guid>https://www.seayo.com/products/dragon08/</guid>
+      <description>日本伞钩 21g 490nm夜光 带响珠</description>
+    </item>
+    <item>
+      <title>西鱿妖系列木虾</title>
+      <link>https://www.seayo.com/products/yao/</link>
+      <pubDate>Thu, 07 Sep 2023 16:27:22 +0200</pubDate>
+      <guid>https://www.seayo.com/products/yao/</guid>
+      <description>日本伞钩 21g</description>
+    </item>
+    <item>
+      <title>西鱿 鱿鱼搭钩</title>
+      <link>https://www.seayo.com/products/gaff/</link>
+      <pubDate>Thu, 07 Sep 2023 16:27:22 +0200</pubDate>
+      <guid>https://www.seayo.com/products/gaff/</guid>
+      <description>鱿鱼搭钩</description>
+    </item>
+    <item>
+      <title>木虾专用配重TR 水滴铅坠</title>
+      <link>https://www.seayo.com/products/qian/</link>
+      <pubDate>Wed, 07 Sep 2022 16:27:22 +0200</pubDate>
+      <guid>https://www.seayo.com/products/qian/</guid>
+      <description>490nm夜光 快装快拆设计 3g/5g/7g/10g</description>
+    </item>
+  </channel>
+</rss>

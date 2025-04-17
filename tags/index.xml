@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 西鱿官方网站</title>
+    <link>https://www.seayo.com/tags/</link>
+    <description>Recent content in Tags on 西鱿官方网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>Copyright (c) 2025 Seayo</copyright>
+    <lastBuildDate>Wed, 07 Aug 2024 16:27:22 +0200</lastBuildDate>
+    <atom:link href="https://www.seayo.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>木虾</title>
+      <link>https://www.seayo.com/tags/%E6%9C%A8%E8%99%BE/</link>
+      <pubDate>Wed, 07 Aug 2024 16:27:22 +0200</pubDate>
+      <guid>https://www.seayo.com/tags/%E6%9C%A8%E8%99%BE/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>西鱿</title>
+      <link>https://www.seayo.com/tags/%E8%A5%BF%E9%B1%BF/</link>
+      <pubDate>Wed, 07 Aug 2024 16:27:22 +0200</pubDate>
+      <guid>https://www.seayo.com/tags/%E8%A5%BF%E9%B1%BF/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>西鱿木虾</title>
+      <link>https://www.seayo.com/tags/%E8%A5%BF%E9%B1%BF%E6%9C%A8%E8%99%BE/</link>
+      <pubDate>Wed, 07 Aug 2024 16:27:22 +0200</pubDate>
+      <guid>https://www.seayo.com/tags/%E8%A5%BF%E9%B1%BF%E6%9C%A8%E8%99%BE/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>鱿鱼钩</title>
+      <link>https://www.seayo.com/tags/%E9%B1%BF%E9%B1%BC%E9%92%A9/</link>
+      <pubDate>Wed, 07 Aug 2024 16:27:22 +0200</pubDate>
+      <guid>https://www.seayo.com/tags/%E9%B1%BF%E9%B1%BC%E9%92%A9/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
